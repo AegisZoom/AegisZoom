@@ -1,22 +1,23 @@
-<div align="center">
-  <img height="200" src=""  />
-</div>
+###
+
+<h1 align="left">Hello, I'm Peter and welcome!</h1>
 
 ###
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<p align="left">
+  My name is Peter Ljubisic and I am a recent graduate of RMIT who is looking to start a strong career in data science and analysis.
+  For context, I used to study physics and mathematics at the University of Melbourne before I decided to work with data.
+  I have an interest in working in a wide array of fields and industries, as I snuck in studies in chemistry, philosophy,
+  ancient history, and economics during my time there. I like to be well-rounded in my knowledge as it allows me to
+  draw wisdom and intuitive parallels when dealing with new situations and experiences.
+</p>
 
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p>
+  I've done heaps of programming and data projects over the course of my studies. Below I list the tools I have used as well as past projects
+  I have completed. Feel free to read through them, and if you have any questions don't hesitate to contact me on
+  LinkedIn or through email. I've done a wide range of things, from creating classifiers for glass samples to building traffic
+  simulators.
+</p>
 
 ###
 
