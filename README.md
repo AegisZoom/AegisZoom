@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="left">Tools Used For Data Science and Communication</h2>
+<h2 align="left">Tools Used For Data Science, Analysis and Communication</h2>
 
 ###
 
