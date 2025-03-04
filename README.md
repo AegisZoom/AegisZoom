@@ -1,5 +1,3 @@
-###
-
 <h1 align="left">Hello, I'm Peter and welcome!</h1>
 
 ###
