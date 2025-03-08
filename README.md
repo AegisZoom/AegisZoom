@@ -5,13 +5,13 @@
 <p align="left">
   My name is Peter Ljubisic and I am a recent graduate of RMIT who is looking to start a strong career in data science and analysis.
   For context, I used to study physics and mathematics at the University of Melbourne before I decided to work with data.
-  I have an interest in working in a wide array of fields and industries, as I snuck in studies in chemistry, philosophy,
+  I have an interest in working in a wide array of fields and industries, as I included extra studies in chemistry, philosophy,
   ancient history, and economics during my time there. I like to be well-rounded in my knowledge as it allows me to
-  draw wisdom and intuitive parallels when dealing with new situations and experiences.
+  create intuitive parallels when dealing with new situations and experiences.
 </p>
 
 <p>
-  I've done heaps of programming and data projects over the course of my studies. Below I list the tools I have used as well as past projects
+  I've done many programming and data projects over the course of my studies. Below I list the tools I have used as well as past projects
   I have completed. Feel free to read through them, and if you have any questions don't hesitate to contact me on
   LinkedIn or through email. I've done a wide range of things, from creating classifiers for glass samples to building traffic
   simulators.
